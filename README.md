@@ -34,7 +34,9 @@ An example of the code for a COUNTIFS function in Excel is highlighted below
 
 In researching succesful kickstarter theater campaings, one critical aspect to look at was comparing the outcome of kickstarter theater campaings versus their initial launch date. The chart shown below helps to visualize thse results.
 
-![This is an image](/resources/outcomes_vs_goals.png)
+![Chart showing theater outcomes vs launch date](/resources/theater_outcomes_vs_launch.png)
+
+As the chart indicates, the most successful theater campaings appear to have been launched between April and August, with the most successful launches occuring in May. As a result it would be advided to launch a theater campaing as clost to May as possible. Additionally, it is advised to avoid launching a campaing beginning in September and running through January.
 
 ### Analysis of Outcomes Based on Goals
 
