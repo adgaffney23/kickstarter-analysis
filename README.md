@@ -32,6 +32,10 @@ An example of the code for a COUNTIFS function in Excel is highlighted below
 
 ### Analysis of Outcomes Based on Launch Date
 
+In researching succesful kickstarter theater campaings, one critical aspect to look at was comparing the outcome of kickstarter theater campaings versus their initial launch date. The chart shown below helps to visualize thse results.
+
+![This is an image](/resources/outcomes_vs_goals.png)
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
