@@ -44,10 +44,19 @@ As the chart indicates, the most successful theater campaings appear to have bee
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+### The following conclusions can be drawn about outcomes based on launch date.
 
-- What can you conclude about the Outcomes based on Goals?
+1. Conclusion #1
+2. Conclusion #2
 
-- What are some limitations of this dataset?
+### The following conclusions can be drawn about outcomes based on goals.
+
+1. Conclusion #1
+2. Conclusion #2
+
+### The following limitations of this data set can be identified.
+
+1. Limitation #1
+2. Limitation #2
 
 - What are some other possible tables and/or graphs that we could create?
