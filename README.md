@@ -46,8 +46,8 @@ As the chart indicates, the most successful theater campaings appear to have bee
 
 ### The following conclusions can be drawn about outcomes based on launch date.
 
-1. Conclusion #1
-2. Conclusion #2
+1. As inddicated above, based on the Outcomes vs. Launch Date comparrison it appears that the most successful time to start a Theater Kickstarter campaign is between the months of April and August, with May being the most successful month.
+2. In addition to recommending the most successful time to start a campaign, we can also recomment when **NOT** to start a campaing. It is not recommended to begin a Theater Kickstarter beginning in September and running through January. As indicated by the results, campaings begun arounf the holidays are not nearly as successful as those begun in the second quarter of the calendar year.
 
 ### The following conclusions can be drawn about outcomes based on goals.
 
