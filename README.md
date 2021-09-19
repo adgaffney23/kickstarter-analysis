@@ -12,9 +12,6 @@ In terms of practicing skills introduced throughout the module, this project req
 - creating Pivot Tables and Pivot Charts
 - creating and naming new sheets
 
-An example of a Piviot Chart created from a Pivot Table is shown below
-![This is an image](/resources/outcomes_vs_goals.png)
-
 Charts such as these help to visualize the data being presented to a client. In this case the chart plots the initial goal of the campaign on the x-axis vs the percentage of successful campaigns on the y-axis. In this case it shows that in most cases a lower initial goal will potentially lead to a more successful campaign.
 
 Some new skills not explicitly taught are
@@ -39,6 +36,10 @@ In researching succesful kickstarter theater campaings, one critical aspect to l
 As the chart indicates, the most successful theater campaings appear to have been launched between April and August, with the most successful launches occuring in May. As a result it would be advided to launch a theater campaing as clost to May as possible. Additionally, it is advised to avoid launching a campaing beginning in September and running through January.
 
 ### Analysis of Outcomes Based on Goals
+
+In looking at an analysis of theater campaings based on initial goal, it is onece again helpful to visualize the results. The chart below shows initial campaign goal on the x-axis compared to the percentage of successful campaigns on the y-axis.
+
+![Outcomes vs Goals chart](/resources/outcomes_vs_goals.png)
 
 ### Challenges and Difficulties Encountered
 
