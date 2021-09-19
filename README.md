@@ -26,8 +26,7 @@ An example of the code for a COUNTIFS function in Excel is highlighted below
 
 `=COUNTIFS(Kickstarter!$F:$F,"successful",Kickstarter!$R:$R,"plays",Kickstarter!$D:$D,">=1000",Kickstarter!$D:$D,"<5000")`
 
- 
-
+ In the instructions it asks for "links to code." I'm not entirely sure what is meant by that. Above is an example of COUNTIFS code. I used the site following site to learn how to use COUNTIFS between two numbers. [COUNTIFS instructions](https://www.extendoffice.com/documents/excel/2412-excel-count-cells-between-two-values.html)
 
 ## Analysis and Challenges
 
