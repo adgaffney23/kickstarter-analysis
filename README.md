@@ -37,11 +37,11 @@ In researching succesful kickstarter theater campaings, one critical aspect to l
 
 ![Chart showing theater outcomes vs launch date](/resources/theater_outcomes_vs_launch.png)
 
-As the chart indicates, the most successful theater campaings appear to have been launched between April and August, with the most successful launches occuring in May. As a result it would be advided to launch a theater campaing as clost to May as possible. Additionally, it is advised to avoid launching a campaing beginning in September and running through January.
+As the chart indicates, the most successful theater campaigns appear to have been launched between April and August, with the most successful launches occuring in May. As a result it would be advised to launch a theater campaign as close to May as possible. Additionally, it is advised to avoid launching a campaign beginning in September and running through January.
 
 ### Analysis of Outcomes Based on Goals
 
-In looking at an analysis of theater campaings based on initial goal, it is onece again helpful to visualize the results. The chart below shows initial campaign goal on the x-axis compared to the percentage of successful campaigns on the y-axis.
+In looking at an analysis of theater campaigns based on initial goal, it is onece again helpful to visualize the results. The chart below shows initial campaign goal on the x-axis compared to the percentage of successful campaigns on the y-axis.
 
 ![Outcomes vs Goals chart](/resources/outcomes_vs_goals.png)
 
