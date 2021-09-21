@@ -73,9 +73,8 @@ The following challanges/difficulities were encountered while performing this an
 2. A second limitation of the data is the inability to see individual donation amounts. While total number of backers, funds received, and thus average donation are available without a list of pledge amounts it is difficult to remmove and account for individual outliers in the data.
 
 ### What are some other possible tables and/or graphs that we could create?
-* I would be interested to create a chart showing "Staff Pick" vs outcome. Here is an example of such a PivotTable and Chart
+* I would be interested to create a chart showing "Staff Pick" vs outcome. Here is an example of such a PivotTable and Chart. Interestingly this chart clearly shows that if a project is a staff pick it is much more likely to be funded.
 
 ![Staff Pick vs Outcome PivotChart](/additional-resources/staff-pick_vs_outcome.png)
 
-* Chart 2
-* Chart 3
+* We could also choose to look at country or origin vs outcome. Is there a correlation between where a project originates from and it's chances for success?
