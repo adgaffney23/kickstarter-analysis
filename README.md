@@ -75,7 +75,7 @@ The following challanges/difficulities were encountered while performing this an
 ### What are some other possible tables and/or graphs that we could create?
 * I would be interested to create a chart showing "Staff Pick" vs outcome. Here is an example of such a PivotTable and Chart
 
-![Staff Pick vs Outcome PivotTable](https://drive.google.com/file/d/1qqSMSZWPXbeNL9mgGFBZz4jOoai_52FD/view?usp=sharing)
+[Staff Pick vs Outcome PivotTable](https://drive.google.com/file/d/1qqSMSZWPXbeNL9mgGFBZz4jOoai_52FD/view?usp=sharing)
 
 * Chart 2
 * Chart 3
