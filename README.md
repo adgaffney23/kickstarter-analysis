@@ -64,15 +64,18 @@ The following challanges/difficulities were encountered while performing this an
 
 ### The following conclusions can be drawn about outcomes based on goals.
 
-1. Conclusion #1
-2. Conclusion #2
+1. From an anlalysis of outcomes versus initial goal it appears that projects with a lower initial goal are more successful in being fully funded. Projects with an initial goal of less than $10,000 are fully funded 70% of the time. As the initial goal increases the success rate generally decreases. This negative correlation hold for all but two funding goal divisions.
+2. Projects in the $35,000-$45,000 range are funded at a higher rate than was expected. This could potentially be due to there being fewer projects in these goal ranges. Additional analysis and research would be required to fully explore this correlation.
 
 ### The following limitations of this data set can be identified.
 
-1. Limitation #1
-2. Limitation #2
+1. One limitation of the data is that it does not include a method for filtering by prior success of kickstarter campaigns by the same requestor. For example, is a campaign more likely to be successful if the person submitting the request has had a previous kickstarter campaign successfully funded?
+2. A second limitation of the data is the inability to see individual donation amounts. While total number of backers, funds received, and thus average donation are available without a list of pledge amounts it is difficult to remmove and account for individual outliers in the data.
 
 ### What are some other possible tables and/or graphs that we could create?
-* Chart 1
+* I would be interested to create a chart showing "Staff Pick" vs outcome. Here is an example of such a PivotTable and Chart
+
+![Staff Pick vs Outcome PivotTable](https://drive.google.com/file/d/1qqSMSZWPXbeNL9mgGFBZz4jOoai_52FD/view?usp=sharing)
+
 * Chart 2
 * Chart 3
