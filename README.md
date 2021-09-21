@@ -72,4 +72,7 @@ The following challanges/difficulities were encountered while performing this an
 1. Limitation #1
 2. Limitation #2
 
-- What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
+* Chart 1
+* Chart 2
+* Chart 3
