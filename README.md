@@ -45,6 +45,8 @@ In looking at an analysis of theater campaigns based on initial goal, it is onec
 
 ![Outcomes vs Goals chart](/resources/outcomes_vs_goals.png)
 
+Generally speaking, campaigns with lower initial goals are more successful. There do appear to be some outliers to this rule. For some reason campaigns in the mid-$30,000 range were unusually successful. Additional research and analysis would be needed to better explain this anomaly. One possible explanation is that there were very few campaigns launched with this goal and those few that were launched were successful. 
+
 ### Challenges and Difficulties Encountered
 
 ## Results
