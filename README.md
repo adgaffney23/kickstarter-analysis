@@ -49,6 +49,10 @@ Generally speaking, campaigns with lower initial goals are more successful. Ther
 
 ### Challenges and Difficulties Encountered
 
+The following challanges/difficulities were encountered while performing this analysis.
+
+* My first challange was involing Excel operating very slowly. When using a new MacBook Air running the latest verior of
+
 ## Results
 
 ### The following conclusions can be drawn about outcomes based on launch date.
