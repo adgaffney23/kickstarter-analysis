@@ -14,7 +14,7 @@ In terms of practicing skills introduced throughout the module, this project req
 
 An example of a PivotChart is shown below.
 
-![Chart showing theater outcomes vs launch date](/resources/theater_outcomes_vs_launch.png)
+![Outcomes vs Goals chart](/resources/outcomes_vs_goals.png)
 
 Charts such as these help to visualize the data being presented to a client. In this case the chart plots the initial goal of the campaign on the x-axis vs the percentage of successful campaigns on the y-axis. In this case it shows that in most cases a lower initial goal will potentially lead to a more successful campaign.
 
