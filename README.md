@@ -51,7 +51,9 @@ Generally speaking, campaigns with lower initial goals are more successful. Ther
 
 The following challanges/difficulities were encountered while performing this analysis.
 
-* My first challange was involing Excel operating very slowly. When using a new MacBook Air running the latest verior of
+* My first challange was involing Excel operating very slowly. When using a new MacBook Air running the latest OS and version of Excel, performing any calculations, insertion of PiviotTables or Charts was painstakingly slow. After switching to an older Mac running an earlier OS performance improved dramatically.
+* The second challenge I encountered was with using the COUNTIFS function. I have used this funciton on multiple previous occassions, however I needed to use Google to research how to include criteria for obtaining counts between to constraints.
+* The final challange I encourtered is with the purpose of the readme deliverable. It was not very clear if this taks was to be performed as a pretend analysis for a preten client, or if the purpose was to document my experience with the module as a student. For example, is this question on difficulities desiged to explore difficulties I had in completing the module or to describe difficulties in the analysis which may or may not effect the end results.
 
 ## Results
 
